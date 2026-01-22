@@ -1,0 +1,31 @@
+Task One:
+
+If I am hungry, then:
+    Go to the kitchen.
+    If there is food ready, then:
+        Eat the food.
+    Else:
+        Make something to eat (like a sandwich or noodles).
+    End If
+    After eating, clean up.
+Otherwise,
+    Do nothing.
+End If
+
+Task Two:
+If I get an A+ in this course, then:
+    My parents will be very proud of me.
+    They might take me out for dinner.
+    They might also give a reward.
+Otherwise,
+    They will encourage me to keep working hard and try again next time.
+End If
+
+Task Five:
+
+If I win the 649 lottery, then:
+    I will celebrate with my family.
+    I will save most of the money in the bank.
+Otherwise,
+    Ill try again next time.
+End If
